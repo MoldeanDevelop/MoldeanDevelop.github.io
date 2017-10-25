@@ -2,7 +2,8 @@
    body {
     margin: 0;
     height: 100%;
-    background: url(bg.gif);
+    background: url(bg-min.png);
     background-size: cover;
+    background-color: #2c2c2c;
    text-align: center
    }
